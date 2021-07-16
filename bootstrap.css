@@ -1,0 +1,25 @@
+.jumbotron {
+	background-image: url(https://hdfreewallpaper.net/wp-content/uploads/2015/09/morning-with-cup-of-green-coffee-free-hd-wallpapers.jpg) ;
+	background-size: cover;
+	height: 780px ;
+	text-align: center;
+	margin-top: -100px ;
+}
+.jumbotron .display-4 {
+	color: white ;
+	margin-top: 200px;
+}
+.jumbotron p {
+	font-size: 25px;
+	color: white;
+}
+.jumbotron hr {
+	border-color: green ;
+	width: 200px;
+	border-width: 5px;
+}
+.jumbotron .btn {
+	border-radius: 25px;
+	border-color: green;
+	border: none;
+}
